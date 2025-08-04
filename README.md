@@ -1,0 +1,1 @@
+This Project based on web-based version of the classic game Stone (Rock), Paper, Scissors, where users can play against a computer opponent. The game is built using HTML, CSS, and JavaScript to provide a fun and responsive user experience.
